@@ -10,7 +10,7 @@
   },
   "2": {
     "inputs": {
-      "lora_name": "lcm-lora-sdxl.safetensors",
+      "lora_name": "pytorch_lora_weights.safetensors",
       "strength_model": 1,
       "strength_clip": 1,
       "model": [
